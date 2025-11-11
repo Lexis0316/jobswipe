@@ -690,6 +690,7 @@ bulletLine: {
     lineHeight: 18,
     marginRight: 8,
     fontWeight: 'bold',
+    
   },
   number: {
     color: "#e8e8e8",
